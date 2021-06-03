@@ -42,7 +42,8 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 
 __NOTE:__ In the notebook, you will need to train CNNs in PyTorch.  If your CNN is taking too long to train, feel free to pursue one of the options under the section __Accelerating the Training Process__ below.
 
-
+## Built with
+Pytorch - An open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
 ## (Optionally) Accelerating the Training Process 
 
